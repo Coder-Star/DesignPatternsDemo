@@ -1,5 +1,6 @@
 import Foundation
 
+//: [文章地址](https://mp.weixin.qq.com/s/qT31JPAERXJtE7zIdMYTCg)
 class QRCodeScanManager {
     private init() {}
 
