@@ -3,5 +3,8 @@
     <pages>
         <page name='Chain of Responsibility'/>
         <page name='Strategy'/>
+        <page name='Command'/>
+        <page name='Composite'/>
+        <page name='Mediator'/>
     </pages>
 </playground>

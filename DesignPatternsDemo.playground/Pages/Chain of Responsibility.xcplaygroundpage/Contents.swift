@@ -1,6 +1,11 @@
+/**
+ 责任链模式在扫码场景下的使用
+ */
+
 import Foundation
 
 //: [文章地址](https://mp.weixin.qq.com/s/qT31JPAERXJtE7zIdMYTCg)
+
 class QRCodeScanManager {
     private init() {}
 
